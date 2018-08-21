@@ -1,0 +1,1 @@
+To jest mój pierwszy commit w projekcie php
